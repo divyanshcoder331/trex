@@ -1,0 +1,2 @@
+# trex
+dino run
